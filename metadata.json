@@ -1,0 +1,7 @@
+{
+  "name": "Movie App",
+  "description": "Browse trending movies, anime, series, and short TV with rankings, rich details, search, and personal watchlist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="search_placeholder">Search or ask anything</string>
+    <string name="category_movies">Movies</string>
+    <string name="category_series">Series</string>
+    <string name="category_anime">Anime</string>
+    <string name="category_short_tv">Short TV</string>
+</resources>
+
